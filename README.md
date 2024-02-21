@@ -1,11 +1,8 @@
-<div align="center">
+# Welcome to Chihyuen.Wang
 
-# Chihyuen
-> Welcome to Chihyuen.Wang
+感谢访问 Chihyuen 主页。
 
-</div>
-
-# 各平台个人主页
+## 各平台个人主页
 - 微信公众号 搜索「Chihyuen」
 - [哔哩哔哩 @Chihyuen](https://space.bilibili.com/3387346)
 - [新浪微博 @Chihyuen_](https://weibo.com/u/2917213733)
